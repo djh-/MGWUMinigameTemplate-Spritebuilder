@@ -21789,7 +21789,7 @@
 			<key>collisionMask</key>
 			<array/>
 			<key>collisionType</key>
-			<string>Hero</string>
+			<string>HeroCollision</string>
 			<key>cornerRadius</key>
 			<real>48.316665649414062</real>
 			<key>density</key>
@@ -21872,6 +21872,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
